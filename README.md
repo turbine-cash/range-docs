@@ -1,6 +1,6 @@
 # Range Documentation
 
-Documentation site for [Range by Turbine](https://github.com/ZKLSOL/range) - on-chain signature verification for Solana.
+Documentation site for [Range by Turbine](https://github.com/turbine-cash/range) - on-chain signature verification for Solana.
 
 Built with [Astro Starlight](https://starlight.astro.build). Deployed to Cloudflare Pages.
 

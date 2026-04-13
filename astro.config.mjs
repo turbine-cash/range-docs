@@ -24,7 +24,7 @@ export default defineConfig({
 			customCss: ['./src/styles/custom.css'],
 			social: [
 				{ icon: 'x.com', label: 'X', href: 'https://x.com/turbine_cash' },
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/ZKLSOL/range' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/turbine-cash/range' },
 			],
 			components: {
 				Header: './src/components/Header.astro',
